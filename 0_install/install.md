@@ -11,9 +11,9 @@
 ## Anaconda
 1. https://www.anaconda.com/ 에서 본인 OS에 맞는 프로그램을 다운.
 2. Just Me (recommended) 선택.  
-![anaconda_install_1](./img/anaconda_install_1.png)
+![anaconda_install_1](././img/anaconda_install_1.png)
 3. Add Anaconda to my PATH environment variable(다른 python interpreter를 사용한다면 선택 해제), Register Anaconda as my default Python 3.7 선택.  
-![anaconda_install_2](./img/anaconda_install_2.png)
+![anaconda_install_2](././img/anaconda_install_2.png)
   
 --------------
 CUDA, cuDNN을 설치하기 앞서 각 버전은  
