@@ -2,6 +2,7 @@
 MICCA동아리를 위한 딥러닝 세미나 발표자료
 
 목차
+0. [install](#install)
 1. [perceptron](#perceptron)
 2. [neural network](#neural-network)
 3. [backpropagation](#backpropagation)

@@ -22,6 +22,7 @@ Mac / Linux: https://www.tensorflow.org/install/source#tested_build_configuratio
 에서 확인이 가능하며, (2021.05.13)기준 최신 버전을 설치.  
 ![CUDA_install_1](../img/CUDA_install_1.png)  
 ![cuDNN_install_1](../img/cuDNN_install_1.png)  
+
 ---
         
 ## CUDA
@@ -60,5 +61,6 @@ pip install -r requirements.txt
 python : python을 사용하기 위해서  
 Pylance : 가독성과 모듈등 자동완성  
 indent-rainbow : 가독성을 높여줌
+
 ---
   
