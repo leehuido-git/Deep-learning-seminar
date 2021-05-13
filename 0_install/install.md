@@ -54,8 +54,10 @@ pip install -r requirements.txt
 ![VSCode_install_1](../img/VSCode_install_1.png)  
 3. 실행 후 좌측 Marketplace에서 아래를 각각 검색하여 설치
 ![VSCode_install_2](../img/VSCode_install_2.png)  
-  
+
+---
 python : python을 사용하기 위해서  
 Pylance : 가독성과 모듈등 자동완성  
 indent-rainbow : 가독성을 높여줌
+---
   
