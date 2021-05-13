@@ -15,14 +15,15 @@
 3. Add Anaconda to my PATH environment variable(다른 python interpreter를 사용한다면 선택 해제), Register Anaconda as my default Python 3.7 선택.  
 ![anaconda_install_2](../img/anaconda_install_2.png)
   
-  
+---
 CUDA, cuDNN을 설치하기 앞서 각 버전은  
 Windows:  https://www.tensorflow.org/install/source_windows#tested_build_configurations  
 Mac / Linux: https://www.tensorflow.org/install/source#tested_build_configurations  
 에서 확인이 가능하며, (2021.05.13)기준 최신 버전을 설치.  
 ![CUDA_install_1](../img/CUDA_install_1.png)  
 ![cuDNN_install_1](../img/cuDNN_install_1.png)  
-  
+---
+        
 ## CUDA
 https://developer.nvidia.com/cuda-toolkit-archive 에서 자신에게 맞는 버전을 선택    
 여기서는 CUDA 11.1 버전을 사용  
